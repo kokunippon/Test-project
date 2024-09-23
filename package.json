@@ -1,0 +1,45 @@
+{
+  "name": "Meta-shopping",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "start": "next dev",
+    "dev": "next dev",
+    "predev": "start http://localhost:3000/",
+    "prestart": "start http://localhost:3000/",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@google/model-viewer": "^3.5.0",
+    "@react-three/drei": "^9.108.4",
+    "@react-three/fiber": "^8.16.8",
+    "@tabler/icons-react": "^3.5.0",
+    "@types/node": "18.15.3",
+    "@types/react": "18.0.28",
+    "@types/react-dom": "18.0.11",
+    "axios": "^1.7.7",
+    "clsx": "^2.1.1",
+    "eslint": "8.36.0",
+    "eslint-config-next": "13.2.4",
+    "framer-motion": "^11.2.10",
+    "next": "^14.2.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-helmet": "^6.1.0",
+    "react-helmet-async": "^2.0.5",
+    "request": "^2.88.2",
+    "sqlite3": "^5.1.7",
+    "tailwind-merge": "^2.3.0",
+    "three": "^0.163.0",
+    "three-globe": "^2.31.1",
+    "typescript": "4.9.5"
+  },
+  "devDependencies": {
+    "@types/react-helmet": "^6.1.11",
+    "autoprefixer": "^10.4.14",
+    "file-loader": "^6.2.0",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.7"
+  }
+}

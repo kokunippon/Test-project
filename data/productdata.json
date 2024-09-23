@@ -1,0 +1,210 @@
+[
+  {
+    "id": 1,
+    "name": "Rock Jacket",
+    "company": "CrypoRock",
+    "price": "$7250",
+    "size": ["S", "M", "L", "XL"],
+    "poster": "jacket.png",
+    "model": "rock_jacket",
+    "description": "Black solid jacket, has a spread collar, 4 pockets, button closure, long sleeves, straight hem, and unlined lining",
+    "material": "Vegan Leather",
+    "placement": "floor",
+    "hotspots": [
+      {
+        "id": 1,
+        "name": "Button closure",
+        "position": "0.07188187187656739m 1.4514574166323728m 0.08786709958031445m",
+        "normal": "-0.021876867398458802m 0.3620999834986919m 0.9318825058037508m"
+      },
+      {
+        "id": 2,
+        "name": "Leather material",
+        "position": "-0.14273273485683724m 1.193229129751948m 0.0749232170042912m",
+        "normal": "-0.6750052890684157m 0.165322875775553m 0.7190522974547578m"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Nike Air Pegasus",
+    "company": "Nike",
+    "price": "$890",
+    "size": [7, 8, 9, 10],
+    "poster": "shoe.png",
+    "model": "nike_air_zoom_pegasus_36",
+    "description": "The Nike Air Pegasus is a versatile and reliable running shoe designed for athletes of all levels. Known for its exceptional cushioning and comfortable fit, the Air Pegasus features responsive Zoom Air technology in the midsole and a breathable mesh upper for optimal airflow.",
+    "material": "Airmesh canvas",
+    "placement": "floor",
+    "hotspots": [
+      {
+        "id": 3,
+        "name": "lace Clouser",
+        "position": "0.07188187187656739m 1.4514574166323728m 0.08786709958031445m",
+        "normal": "-0.021876867398458802m 0.3620999834986919m 0.9318825058037508m"
+      },
+      {
+        "id": 4,
+        "name": "Canvas material",
+        "position": "-0.14273273485683724m 1.193229129751948m 0.0749232170042912m",
+        "normal": "-0.6750052890684157m 0.165322875775553m 0.7190522974547578m"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Nicon camera Bag",
+    "company": "Nikon",
+    "price": "$250",
+    "size": [7, 8, 9, 10],
+    "poster": "nickonbag.png",
+    "model": "old_camera_bag_",
+    "description": "The Nikon Camera Bag is the perfect companion for photographers seeking protection and convenience for their gear. Crafted with durable, weather-resistant materials, this bag ensures your equipment stays safe in various conditions. The spacious interior, complete with adjustable padded dividers, allows for customizable storage of cameras, lenses, and accessories.",
+    "material": "Senthatic Leather",
+    "placement": "floor",
+    "hotspots": [
+      {
+        "id": 5,
+        "name": "Strap convex",
+        "position": "0.07188187187656739m 1.4514574166323728m 0.08786709958031445m",
+        "normal": "-0.021876867398458802m 0.3620999834986919m 0.9318825058037508m"
+      },
+      {
+        "id": 6,
+        "name": "Margin Canvas material",
+        "position": "-0.14273273485683724m 1.193229129751948m 0.0749232170042912m",
+        "normal": "-0.6750052890684157m 0.165322875775553m 0.7190522974547578m"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Versace Bag",
+    "company": "Louis Vuitton",
+    "price": "$1250",
+    "size": [7, 8, 9, 10],
+    "poster": "bag.png",
+    "model": "versace_bag",
+    "description": "The Louis Vuitton Bag epitomizes luxury and timeless elegance. Crafted with exquisite attention to detail, this bag features the iconic LV monogram canvas, complemented by premium leather trims and polished hardware.",
+    "material": "Monogram canvas",
+    "placement": "floor",
+    "hotspots": [
+      {
+        "id": 7,
+        "name": "monogram canvas",
+        "position": "0.07188187187656739m 1.4514574166323728m 0.08786709958031445m",
+        "normal": "-0.021876867398458802m 0.3620999834986919m 0.9318825058037508m"
+      },
+      {
+        "id": 8,
+        "name": "Leather Trims",
+        "position": "-0.14273273485683724m 1.193229129751948m 0.0749232170042912m",
+        "normal": "-0.6750052890684157m 0.165322875775553m 0.7190522974547578m"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Asics Shoe",
+    "company": "Asics",
+    "price": "$650",
+    "size": [7, 8, 9, 10],
+    "poster": "asisshoe.png",
+    "model": "asics_shoe",
+    "description": " Lightweight and durable, Asics Sneakers offer exceptional comfort and support, featuring advanced cushioning technology and breathable materials for peak performance in any activity.",
+    "material": "Mesh canvas",
+    "placement": "floor",
+    "hotspots": [
+      {
+        "id": 7,
+        "name": "Breathable mesh upper",
+        "position": "0.07188187187656739m 1.4514574166323728m 0.08786709958031445m",
+        "normal": "-0.021876867398458802m 0.3620999834986919m 0.9318825058037508m"
+      },
+      {
+        "id": 8,
+        "name": "cushioned midsole",
+        "position": "-0.14273273485683724m 1.193229129751948m 0.0749232170042912m",
+        "normal": "-0.6750052890684157m 0.165322875775553m 0.7190522974547578m"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Mudmaster watch",
+    "company": "Mudmaster",
+    "price": "$1850",
+    "size": ["S", "M", "L", "XL"],
+    "poster": "watch.png",
+    "model": "chronograph_watch_mudmaster",
+    "description": "Rugged and reliable, the Mudmaster Watch is built to withstand extreme conditions, featuring shock resistance, mud resistance, and advanced digital functions for outdoor adventures.",
+    "material": "Shock-resistant resin case",
+    "placement": "floor",
+    "hotspots": [
+      {
+        "id": 7,
+        "name": "Shock-resistant resin case",
+        "position": "0.07188187187656739m 1.4514574166323728m 0.08786709958031445m",
+        "normal": "-0.021876867398458802m 0.3620999834986919m 0.9318825058037508m"
+      },
+      {
+        "id": 8,
+        "name": "mineral glass",
+        "position": "-0.14273273485683724m 1.193229129751948m 0.0749232170042912m",
+        "normal": "-0.6750052890684157m 0.165322875775553m 0.7190522974547578m"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Versace Jacket",
+    "company": "Versace",
+    "price": "$750",
+    "size": [7, 8, 9, 10],
+    "poster": "jacket2.png",
+    "model": "leather_jacket",
+    "description": "Exude luxury with the Versace Leather Jacket, crafted from premium leather with bold, stylish detailing, offering a perfect blend of sophistication and edge",
+    "material": "Vegan Synthetic lather",
+    "placement": "floor",
+    "hotspots": [
+      {
+        "id": 7,
+        "name": "Premium leather",
+        "position": "0.07188187187656739m 1.4514574166323728m 0.08786709958031445m",
+        "normal": "-0.021876867398458802m 0.3620999834986919m 0.9318825058037508m"
+      },
+      {
+        "id": 8,
+        "name": "metal hardware",
+        "position": "-0.14273273485683724m 1.193229129751948m 0.0749232170042912m",
+        "normal": "-0.6750052890684157m 0.165322875775553m 0.7190522974547578m"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Morcus Headphones",
+    "company": "Morcus",
+    "price": "$1250",
+    "size": ["small", "Medium", "Large"],
+    "poster": "headphones.png",
+    "model": "headphones",
+    "description": "Experience superior sound quality with Morcus Headphones, featuring noise-canceling technology, ergonomic design, and long battery life for an immersive listening experience.",
+    "material": "High-quality plastics",
+    "placement": "floor",
+    "hotspots": [
+      {
+        "id": 7,
+        "name": "memory foam ear cushions",
+        "position": "0.07188187187656739m 1.4514574166323728m 0.08786709958031445m",
+        "normal": "-0.021876867398458802m 0.3620999834986919m 0.9318825058037508m"
+      },
+      {
+        "id": 8,
+        "name": " metal adjustable band",
+        "position": "-0.14273273485683724m 1.193229129751948m 0.0749232170042912m",
+        "normal": "-0.6750052890684157m 0.165322875775553m 0.7190522974547578m"
+      }
+    ]
+  }
+]

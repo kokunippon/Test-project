@@ -1,0 +1,20 @@
+.hotspot[slot="hotspot-1"]:not([data-visible]) {
+  background-color: transparent;
+  border: 3px solid rgb(255, 255, 255);
+}
+
+.modelViewerWrapper :global(:not(:defined) > *) {
+  display: none;
+}
+
+.modelViewerWrapper :global(model-viewer[ar-status="session-started"]) {
+  background-color: brown;
+  width: 100px;
+  height: 100px;
+}
+
+@media screen and (max-width: 600px) {
+.modelViewerWrapper :global(model-viewer) {
+  width: 100px;
+}
+}
